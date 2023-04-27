@@ -2,14 +2,6 @@ p {
     color: red;
 }
 
-#azul {
-    color: blue;
-}
-
-#preto {
-    color: black;
-}
-
-#verde {
-    color: darkgreen;
+body {
+    background-image: url(https://images.genius.com/e5a4b0170030b6bf7b04b9037bf98fe3.500x500x1.jpg)
 }
