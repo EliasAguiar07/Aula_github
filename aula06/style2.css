@@ -1,0 +1,10 @@
+P {
+    margin-top: 100px;
+    border: 1px solid red;
+    padding: 40px;
+    width: 500px;
+    height: 400px;
+    box-shadow: 3px 4px blue (236, 230, 226);
+    text-shadow: 2px 2px red;
+    
+}
